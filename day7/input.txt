@@ -36,6 +36,7 @@ bright tan bags contain 1 vibrant lavender bag, 1 vibrant salmon bag, 1 dim gree
 dull gold bags contain 5 dotted lavender bags.
 dull crimson bags contain 5 shiny tomato bags.
 dotted tomato bags contain 1 dark coral bag, 5 pale plum bags.
+shiny gold bags contain 5 muted orange bags, 2 faded tan bags, 3 faded orange bags, 1 dull brown bag.
 bright blue bags contain 1 plaid cyan bag, 4 dim magenta bags, 2 drab magenta bags.
 shiny tomato bags contain 5 vibrant aqua bags, 3 clear tan bags.
 pale silver bags contain 4 wavy orange bags, 4 dotted green bags, 3 drab silver bags.
